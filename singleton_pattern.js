@@ -39,4 +39,4 @@ const processManager2 = Singleton.getProcessManager();
 console.log(processManager1 === processManager2); //true
 // this mean that manager 1,2 are the same
 
-console.dir(Singleton.getProcessManager)
+console.dir(Singleton.getProcessManager);
