@@ -10,3 +10,4 @@ We can classiified design patterns to 3 diffenert Categories
 3- Behaivor Category
 
 - Strategy Pattern: swap Strategies easily
+- Iterator Pattern: used when I want to iterate collection
