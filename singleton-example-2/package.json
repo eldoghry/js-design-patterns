@@ -1,0 +1,20 @@
+{
+  "name": "js-designpatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mma-90/js-design-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mma-90/js-design-patterns/issues"
+  },
+  "homepage": "https://github.com/mma-90/js-design-patterns#readme"
+}
