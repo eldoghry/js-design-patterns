@@ -1,0 +1,10 @@
+What Design patterns ? 
+Design patterns are advanced object-oriented solutions to commonly occurring software problems. Patterns are about reusable designs and interactions of objects.
+
+We can classiified design patterns to 3 diffenert Categories 
+
+1- Creational Category
+    - Factory pattern
+    - Singlton Pattern: limit # of instance of object to be 0 or 1 
+2- Structual Category
+3- Behaivor Category
