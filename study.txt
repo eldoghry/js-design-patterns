@@ -11,3 +11,4 @@ We can classiified design patterns to 3 diffenert Categories
 
 - Strategy Pattern: swap Strategies easily
 - Iterator Pattern: used when I want to iterate collection
+- Observer Pattern: one to many The Observer pattern offers a subscription model in which objects subscribe to an event and get notified when the event occurs.

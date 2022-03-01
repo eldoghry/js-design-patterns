@@ -4,7 +4,7 @@
   "description": "",
   "main": "factory_pattern.js",
   "scripts": {
-    "start": "npx nodemon iterator_pattern.js"
+    "start": "npx nodemon observer_pattern.js"
   },
   "repository": {
     "type": "git",
